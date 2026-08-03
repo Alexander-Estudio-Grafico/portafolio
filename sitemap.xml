@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://alexander-estudio-grafico.github.io/portafolio/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/post.jpg</image:loc>
+      <image:title>Diseño de post para redes sociales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/logo.jpg</image:loc>
+      <image:title>Diseño de logotipo e identidad de marca</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/flyer.jpg</image:loc>
+      <image:title>Diseño de flyer publicitario</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/menu.jpg</image:loc>
+      <image:title>Diseño de menú para restaurante</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/banner.jpg</image:loc>
+      <image:title>Diseño de banner para redes sociales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/tarjetas.jpg</image:loc>
+      <image:title>Diseño de tarjeta de presentación</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://alexander-estudio-grafico.github.io/portafolio/imagenes/campanas.jpg</image:loc>
+      <image:title>Diseño de campaña publicitaria</image:title>
+    </image:image>
+  </url>
+</urlset>

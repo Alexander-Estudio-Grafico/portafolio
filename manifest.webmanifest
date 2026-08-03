@@ -1,0 +1,19 @@
+{
+  "name": "Alexander Estudio de Diseño Gráfico",
+  "short_name": "Alexander Estudio",
+  "description": "Diseño gráfico y publicidad para pequeños negocios en México.",
+  "lang": "es-MX",
+  "start_url": "/portafolio/",
+  "scope": "/portafolio/",
+  "display": "standalone",
+  "background_color": "#f7f6f3",
+  "theme_color": "#111118",
+  "icons": [
+    {
+      "src": "logo-alexander.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
